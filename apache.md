@@ -1634,6 +1634,11 @@ Apache
 * [Python 에서 Tajo 사용하기](http://linewalks.com/archives/1085)
 * [MelOn 빅데이터 플랫폼과 Tajo 이야기](http://www.slideshare.net/gruter/melon-tajo)
 
+# Texera
+* [Apache Texera — Human-AI Collaborative Data Science Using Visual Workflows](https://texera.apache.org/)
+  * [texera: Human-AI Collaborative Data Science Using Visual Workflows](https://github.com/apache/texera)
+  * 비주얼 워크플로로 인간-AI 협업 데이터 과학을 수행하는 오픈소스 플랫폼(Incubating). 직관적 GUI로 분석 태스크를 구성·실행·개선하고 자연어 지시를 이해하는 AI 에이전트가 보조. 노트북 로컬 실행부터 클라우드 대규모 처리까지, "AI for Science" 등 활용. Scala, 298 stars
+
 # Thrift
 * [Apache Thrift](https://github.com/likejazz/likejazz.github.io/wiki/Apache-Thrift)
 * [아파치 쓰리프트의 bool 타입 관련 제한 값](http://knight76.tistory.com/entry/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%93%B0%EB%A6%AC%ED%94%84%ED%8A%B8%EC%9D%98-bool-%ED%83%80%EC%9E%85-%EA%B4%80%EB%A0%A8-%EC%A0%9C%ED%95%9C-%EA%B0%92)
