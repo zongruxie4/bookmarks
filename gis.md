@@ -46,6 +46,10 @@ GIS
   * [How mobility gives language models a deeper understanding of place | Google Research](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
   * [이동 데이터로 장소를 이해하는 AI, Google Research의 ME-POIs | digitalbourgeois](https://digitalbourgeois.tistory.com/3560)
   * 기존 지리공간 파운데이션 모델이 정적 텍스트 메타데이터에서 얻은 '장소 정체성'이나 이동 규칙성에 묶인 표현을 학습하는 데 그친다는 문제 제기—사람의 실제 이동에서 장소가 어떻게 사용되는지(POI의 기능)를 학습해 POI 표현에 임베딩
+* [Google Earth AI — Google AI](https://ai.google/earth-ai/)
+  * [Planetary prediction engine: Automating global models via Earth AI | Google Research](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+  * [Planetary Prediction Engine, 지리공간 예측 모델 구축을 자동화하는 AI 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3595)
+  * Google Earth AI의 실험적 연구 역량 PPE(Planetary Prediction Engine). 데이터 발견부터 모델 학습까지 지리공간 모델링 워크플로 전체를 자동 실행—수 주 걸리던 수작업 데이터 큐레이션·피처 엔지니어링·공간 검증을 대체. 공중보건·식량 안보·환경 재해 위험·사회경제 취약성 예측 태스크에서 성능 향상
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
