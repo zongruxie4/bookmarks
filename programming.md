@@ -7948,6 +7948,9 @@ Programming
       * 정책을 신뢰하는 사람들이 더 체계적으로 이행하도록 하기 위해 워크숍, 문서화 등 다양한 방법 활용
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
   * [GitHub이 구축한 온콜 문화 | GeekNews](https://news.hada.io/topic?id=3551)
+* [AI handles incidents, engineers lose touch with their systems | Sylvain Kalache](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+  * [AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다 | GeekNews](https://news.hada.io/topic?id=33263)
+  * 전 LinkedIn SRE. AI 장애 대응 도구(AI SRE)가 알림 검토→가설→텔레메트리 조회→배포 상관관계→수정까지 처리하는 시대의 역설—루틴 장애는 대응자가 시스템 감각을 '안전하게' 기르는 훈련장인데, 자동화가 이를 대신할수록 사람은 연습 기회를 잃고 자동화가 못 푸는 모호한 고심각도 장애에서 곤경에 빠짐
 * [opslane: Reducing alert fatigue for on-call engineers](https://github.com/opslane/opslane)
   * [Opslane - 온콜 메시지를 통합해서 스트레스를 줄여주는 도구 | GeekNews](https://news.hada.io/topic?id=16074)
 
