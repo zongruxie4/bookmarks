@@ -69,6 +69,10 @@ Graph
   * [안녕하세요 정이태입니다. 1.엊그제 그래프 산업계에서 큰 이슈가 있었습니다. Table join based graph operator& embedded database (non-server-client) 으로 유명했던 kuzudb 가 archiving 된 이슈였는데요. 2.각종 그래프 & AI 유명 행사에서 Panelist 로 자주 등장하며… | Yitae Jeong](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-1%EC%97%8A%EA%B7%B8%EC%A0%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%B0%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%ED%81%B0-%EC%9D%B4%EC%8A%88%EA%B0%80-%EC%9E%88%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7382957116447371265-NR_P)
 * [How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data Streams at Internet Scale | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc)
 * [How and Why Netflix Built a Real-Time Distributed Graph: Part 2 — Building a Scalable Storage Layer | by Netflix Technology Blog | Nov, 2025 | Medium](https://netflixtechblog.medium.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-2-building-a-scalable-storage-layer-ff4a8dbd3d1f)
+* [Graph Engineering Explained in 13 Minutes (Graph Databases, Neo4j, GraphRAG) - YouTube](https://www.youtube.com/watch?v=zFt_yxXruQI)
+  * [Graph Engineering — Building Better Graphs for AI 인포그래픽 | Data Structure and Algorithms for Programmers | Facebook](https://www.facebook.com/groups/356919327808418?multi_permalinks=3625801920920126)
+  * MLTut. 수식 없이 13분에 정리하는 그래프 엔지니어링 입문—그래프 데이터베이스, Neo4j, Cypher, GraphRAG
+  * 함께 공유된 인포그래픽: Graph AI 모델 성능을 높이기 위한 그래프 구축·변환·보강 과정. 구성요소(노드·엣지·피처·토폴로지)와 표현(인접 행렬·엣지 리스트·피처 행렬), 9단계 파이프라인(데이터 수집→그래프 구축→정제→피처 엔지니어링→보강→변환→검증→저장→Graph AI), GNN 모델(GCN·GraphSAGE·GAT)과 라이브러리(NetworkX·PyG·DGL·Spektral)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
