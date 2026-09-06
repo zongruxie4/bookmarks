@@ -5927,6 +5927,9 @@ NLP
 * [Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation](https://github.com/SevaSk/ecoute)
 * [ElevenLabs Voice Isolator - 음성만 깨끗하게 분리 | GeekNews](https://news.hada.io/topic?id=15709)
   * [Free Voice Isolator and Background Noise Remover | ElevenLabs](https://elevenlabs.io/voice-isolator)
+* [EnviousWispr: Free Private AI Dictation for macOS](https://enviouswispr.com/)
+  * [EnviousWispr: Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon](https://github.com/saurabhav88/EnviousWispr)
+  * Apple Silicon 온디바이스 무료 받아쓰기—오디오가 Mac 밖으로 나가지 않음. Whisper+Parakeet 듀얼 엔진, 자체 온디바이스 모델(EG-1)·Apple Intelligence·Ollama·OpenAI/Gemini 키로 AI 문장 다듬기 선택 가능. 계정·구독 불필요. Swift
 * [FastSpeech2: An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"](https://github.com/ming024/FastSpeech2)
   * [~PYRASIS.COM: 내 목소리를 TTS로 만들기(FastSpeech2)~](https://pyrasis.com/tts/2023/02/05/FastSpeech2-My-Voice-TTS)
   * [Korean-FastSpeech2-Pytorch: Implementation of Korean FastSpeech2](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)
